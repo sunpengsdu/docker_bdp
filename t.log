@@ -1,0 +1,59 @@
+BDP cannot current version of Hadoop
+#the application name is:                 cdh2
+the cluster is created from image:       192.168.2.21:5000/hadoop-cdh4.7
+the number of workers in the cluster is: 10
+
+creating master node
+starting master node
+
+creating slave nodes
+10% :# 20% :## 30% :### 40% :#### 50% :##### 60% :###### 70% :####### 80% :######## 90% :######### 100% :########## 
+allocating IP for the master node
+
+allocating IP for the slave nodes
+10% :# 20% :## 30% :### 40% :#### 50% :##### 60% :###### 70% :####### 80% :######## 90% :######### 100% :########## 
+refreshing the containers ip address
+10% :# 20% :## 30% :### 40% :#### 50% :##### 60% :###### 70% :####### 80% :######## 90% :######### 100% :########## 
+generating the configuration file
+generating the configuration file: done
+syncing configuration file for master node
+syncing configuration file for master node: done
+syncing configuration file for slave nodes
+10% :# 20% :## 30% :### 40% :#### 50% :##### 60% :###### 70% :####### 80% :######## 90% :######### 100% :######### 
+
+
+
+sucessfully create the cluster
+
+the master node is: 
+cdh2-master Location: BDP-01 IP: 10.0.128.180
+login to the master node to start the framework, submit and track Hadoop Mapreduce jobs
+#the application name is:                 cdh5
+the cluster is created from image:       192.168.2.21:5000/hadoop-cdh4.7
+the number of workers in the cluster is: 10
+
+creating master node
+starting master node
+
+creating slave nodes
+10% :# 20% :## 30% :### 40% :#### 50% :##### 60% :###### 70% :####### 80% :######## 90% :######### 100% :########## 
+allocating IP for the master node
+
+allocating IP for the slave nodes
+10% :# 20% :## 30% :### 40% :#### 50% :##### 60% :###### 70% :####### 80% :######## 90% :######### 100% :########## 
+refreshing the containers ip address
+10% :# 20% :## 30% :### 40% :#### 50% :##### 60% :###### 70% :####### 80% :######## 90% :######### 100% :########## 
+generating the configuration file
+generating the configuration file: done
+syncing configuration file for master node
+syncing configuration file for master node: done
+syncing configuration file for slave nodes
+10% :# 20% :## 30% :### 40% :#### 50% :##### 60% :###### 70% :####### 80% :######## 90% :######### 100% :######### 
+
+
+
+sucessfully create the cluster
+
+the master node is: 
+cdh5-master Location: BDP-04 IP: 10.0.128.168
+login to the master node to start the framework, submit and track Hadoop Mapreduce jobs
